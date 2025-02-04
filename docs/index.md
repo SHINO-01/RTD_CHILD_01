@@ -4,4 +4,5 @@
 - [Test01](test-dir-01/test01.md)
 - [Test02](test-dir-02/test02.md)
 - [Test05](test-dir-04/test05.md)
+- [Test07](test-dir-04/test07.md)
 - [Test06](test-dir-04/test06.md)
